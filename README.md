@@ -67,8 +67,6 @@
 </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
-
 ---
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
